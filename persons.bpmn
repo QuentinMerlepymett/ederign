@@ -154,7 +154,7 @@
         <dc:Bounds height="56" width="56" x="840" y="100"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="shape__8C8DAF46-45B9-49BB-A468-2E8E637394DC" bpmnElement="_8C8DAF46-45B9-49BB-A468-2E8E637394DC">
-        <dc:Bounds height="56" width="56" x="840" y="276"/>
+        <dc:Bounds height="56" width="56" x="758" y="411"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge id="edge_shape__4BCACDD9-A153-4D37-8349-898B818045EF_to_shape__F774226C-0EB5-4832-821C-4446596FF83E" bpmnElement="_24D00A58-D27A-4E85-BE72-F7BA3B7EAA46">
         <di:waypoint x="156" y="128"/>
